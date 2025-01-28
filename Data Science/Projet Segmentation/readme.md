@@ -1,0 +1,1 @@
+Ce projet est inspiré d'une vidéo sur la segmentation de marché (clients d'un site de E-commerce) disponible sur Youtube par le lien : https://youtu.be/aUKBV6XPBVg?si=Y8mpsBhto4ARDn1A
